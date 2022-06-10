@@ -1,4 +1,5 @@
 import sys
+
 fname = "python.txt"
 num_lines = 0
 num_words = 0
